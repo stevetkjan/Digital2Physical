@@ -2,12 +2,13 @@
 
 This is the research code for the paper:
 
-Steve T.K. Jan, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, Gang Wang "Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks" In Proceedings of The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019
+Steve T.K. Jan, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, Gang Wang "Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks" 
+In Proceedings of The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019
 
 [Project page](http://people.cs.vt.edu/tekang/D2P/)
 
 
-### Usage
+## Usage
 
 There are five steps to generate our physical attack
 

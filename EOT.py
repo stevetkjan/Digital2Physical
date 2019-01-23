@@ -18,7 +18,7 @@ import tarfile
 
 
 
-demo_steps=10
+demo_steps=1000
 img_path='./simulated.JPEG'
 output_path = './demo.jpg'
 imagenet_json_path='./imagenet.json'

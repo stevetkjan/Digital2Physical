@@ -7,6 +7,9 @@ In Proceedings of The Thirty-Third AAAI Conference on Artificial Intelligence (A
 
 [Project page](http://people.cs.vt.edu/tekang/D2P/)
 
+## Prerequisites
+EOT.py is tested successfully in tensorflow 1.10 and python 3.6
+
 
 ## Usage
 

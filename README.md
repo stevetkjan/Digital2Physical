@@ -1,7 +1,11 @@
-# Digital2Physical
+# Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks (AAAI 2019)
 
+This is the research code for the paper:
 
-## Workflow
+Steve T.K. Jan, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, Gang Wang "Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks" In Proceedings of The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), 2019
+
+[Project page](http://people.cs.vt.edu/tekang/D2P/)
+
 
 <img src="workflow.png"  width="500" />
 

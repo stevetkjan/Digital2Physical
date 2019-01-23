@@ -1,5 +1,14 @@
 # Digital2Physical
 
+
+## Workflow
+
+<img src=./Digital2Physical/workflow.png>
+
+
+
+
+
 Contact: Steve T.K. Jan (tekang at vt. edu)
 
 Please cite our paper if you find it useful for your research.

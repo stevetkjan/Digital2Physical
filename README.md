@@ -29,11 +29,22 @@ python test.py --dataroot ./datasets/test  --model test --checkpoints_dir ./chec
 
 
 2. Used EOT on simulated image.
+Here are some parameters in the top of EOT.py that can be adjusted 
 
-
-
-
-
+```bash
+demo_steps=1000 # number of iterations
+img_path='./simulated.JPEG' . # given an image
+output_path = './demo.jpg' # output image
+imagenet_json_path='./imagenet.json'
+demo_epsilon = 40/255.0 # 
+demo_lr = 0.5
+demo_target = 21   ## adversarial class
+img_class = 145  # original class
+```
+Generate noise: 
+```bash
+python EOT.py
+```
 
 
 

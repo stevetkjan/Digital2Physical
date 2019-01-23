@@ -10,7 +10,7 @@ In Proceedings of The Thirty-Third AAAI Conference on Artificial Intelligence (A
 
 ## Usage
 
-There are five steps to generate our physical attack
+There are several steps to generate our physical attack
 
 <img src="workflow.png"  width="500" />
 
@@ -23,6 +23,15 @@ python test.py --dataroot ./datasets/test  --model test --checkpoints_dir ./chec
 ```
 - ./datasets/test is the folder of images you want to transfer
 - and put the model into the folder ./checkpoints/d2p/
+
+
+2. Used EOT on simulated image.
+
+
+
+
+
+
 
 
 
@@ -41,5 +50,12 @@ Please cite our paper if you find it useful for your research.
 Adversarial Attacks},
   year = {2019}
 }
-```
 Contact: Steve T.K. Jan (tekang at vt. edu)
+```
+
+## Acknowledgments
+
+EOT implemenations is referenced in (https://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
+and thanks Yen-Chen Lin (http://yclin.me) for developing and testing
+
+

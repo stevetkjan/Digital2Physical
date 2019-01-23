@@ -3,7 +3,7 @@
 
 ## Workflow
 
-<img src=workflow.png . width="300">
+<img src="workflow.png"  width="300" />
 
 
 

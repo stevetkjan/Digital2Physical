@@ -3,7 +3,7 @@
 
 ## Workflow
 
-<img src=./Digital2Physical/workflow.png>
+<img src=workflow.png>
 
 
 

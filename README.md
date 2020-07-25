@@ -20,7 +20,7 @@ There are several steps to generate our physical attack
 
 1. Trained an image-to-image translation network. We used [implementations] (https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). 
 - [Pre-trained model](http://people.cs.vt.edu/tekang/D2P/latest_net_G.pth).
-- [Data for the image-to-image network](http://people.cs.vt.edu/tekang/D2P/photo.zip)
+- [Data for the image-to-image network](http://people.cs.vt.edu/tekang/D2P/photos.zip)
 - Here is the example script to use:
 ```bash
 python test.py --dataroot ./datasets/test  --model test --checkpoints_dir ./checkpoints/  --name d2p/  --dataset_mode single --no_dropout  --norm batch
